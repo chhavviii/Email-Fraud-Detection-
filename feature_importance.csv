@@ -1,0 +1,13 @@
+feature,importance
+has_urgent,0.7308118
+word_count,0.06718154
+num_recipients,0.04705833
+subject_length,0.034323677
+special_char_count,0.031898357
+capital_ratio,0.031696122
+email_length,0.03051504
+has_money,0.02651519
+has_bcc,0.0
+has_cc,0.0
+is_night_email,0.0
+tfidf_0,0.0
