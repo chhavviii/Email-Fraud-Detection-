@@ -83,7 +83,7 @@ The Enron scandal remains one of the most infamous corporate fraud cases in hist
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/enron-fraud-detection.git
+git clone https://github.com/chhavviii/Email-Fraud-Detection-.git
 cd enron-fraud-detection
 ```
 
